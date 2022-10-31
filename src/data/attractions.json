@@ -1,0 +1,99 @@
+[
+    {
+        "id": 1,
+        "name": "Colosseum",
+        "city": "Rome",
+        "country": "Italy",
+        "entry_price": "$20",
+        "address": "Piazza del Colosseo, 1, 00184 Roma RM, Italy",
+        "opening_time": "9:00 AM",
+        "closing_time": "7:00 PM",
+        "categories": [
+            "Most Visited",
+            "Historical"
+        ],
+        "images": [
+            "https://www.arttrav.com/wp-content/uploads/2021/06/colosseum-alexandrakorey.jpg",
+            "https://www.history.com/.image/t_share/MTkwODIxMzcwNDI5NDQ5OTEw/gettyimages-1081719544.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/5/53/Colosseum_in_Rome%2C_Italy_-_April_2007.jpg",
+            "https://static01.nyt.com/images/2022/06/12/world/12italy-colosseum-01/merlin_206622975_bf44e9c5-b817-405f-b46a-33f6fe5f88a8-superJumbo.jpg",
+            "http://cdn.cnn.com/cnnnext/dam/assets/200925160752-colosseum-file-restricted.jpg",
+            "https://www.travelandleisure.com/thmb/t74QyXS4Oi2C0Lg-_waWgOKTstI=/1600x1000/filters:fill(auto,1)/colosseum-rome-night-stars-ARENA0217-b7ebd36d82b0427caaac90674ba17028.jpg",
+            "https://www.onthegotours.com/blog/wp-content/uploads/2019/05/Colosseum-in-the-morning-Rome-Italy.jpg",
+            "https://hips.hearstapps.com/hmg-prod/images/tod-s-for-colosseum-hypogea-1-1624912790.jpg"
+        ],
+        "coordinates": {
+            "lat": 41.8902,
+            "lon": 12.4922
+        }
+    },
+    {
+        "id": 2,
+        "name": "Taj Mahal",
+        "city": "Agra",
+        "country": "India",
+        "entry_price": "$14",
+        "address": "Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001, India",
+        "opening_time": "7:00 AM",
+        "closing_time": "5:00 PM",
+        "categories": [
+            "Most Visited",
+            "Historical"
+        ],
+        "images": [
+            "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/6e/b1/6a/caption.jpg?w=1200&h=-1&s=1",
+            "https://www.forbesindia.com/media/images/2022/May/img_184243_tajmahalindia.jpg",
+            "https://www.tajmahal.gov.in/images/tajmahal-view/day/1.jpg"
+        ],
+        "coordinates": {
+            "lat": 27.1751,
+            "lon": 78.0421
+        }
+    },
+    {
+        "id": 3,
+        "name": "Eiffel Tower",
+        "city": "Paris",
+        "country": "France",
+        "entry_price": "$25",
+        "address": "Champ de Mars, 5 Av. Anatole France, 75007 Paris, France",
+        "opening_time": "9:30 AM",
+        "closing_time": "10:45 PM",
+        "categories": [
+            "Most Visited",
+            "Recommended"
+        ],
+        "images": [
+            "https://www.planetware.com/photos-large/F/eiffel-tower.jpg",
+            "https://www.thetrainline.com/cms/media/1360/france-eiffel-tower-paris.jpg?mode=crop&width=1080&height=1080&quality=70",
+            "https://www.grunge.com/img/gallery/the-bizarre-history-of-the-eiffel-tower/l-intro-1602781703.jpg",
+            "https://th-thumbnailer.cdn-si-edu.com/Q-oOOYwzuhWGLlUa0NvS4jbMGoI=/fit-in/1600x0/filters:focal(1500x1000:1501x1001)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/04/0f/040fc6b3-2c00-4592-9993-8c0c485fcf99/gettyimages-142198198.jpg"
+        ],
+        "coordinates": {
+            "lat": 48.8584,
+            "lon": 2.2945
+        }
+    },
+    {
+        "id": 4,
+        "name": "Leaning Tower of Pisa",
+        "city": "Pisa",
+        "country": "Italy",
+        "entry_price": "$20",
+        "address": "Piazza del Duomo, 56126 Pisa PI, Italy",
+        "opening_time": "9:00 AM",
+        "closing_time": "07:00 PM",
+        "categories": [
+            "Popular"
+        ],
+        "images": [
+            "https://cdn.mos.cms.futurecdn.net/QF5qpbogF6JCsuogypL3Fd.jpg",
+            "https://juliasalbum.com/wp-content/uploads/2019/04/leaning-tower-of-Pisa-Italy.jpg",
+            "https://i.pinimg.com/originals/9d/d9/47/9dd947df69dfb08fc55218c1eecad7ce.jpg"
+        ],
+        "coordinates": {
+            "lat": 43.7230,
+            "lon": 10.3966
+        }
+    }
+]
