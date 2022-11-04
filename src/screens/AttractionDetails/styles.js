@@ -71,6 +71,19 @@ const styles = StyleSheet.create({
         fontWeight: '400',
         marginTop: 8,
     },
+    map: {
+        width: '100%',
+        height: 200,
+        borderRadius: 10,
+    },
+    mapText: {
+        fontWeight: 'bold',
+        fontSize: 16,
+        color: '#4681A3',
+        textAlign: 'center',
+        padding: 16,
+        marginBottom: 60,
+    }
 });
 
 export default styles;
